@@ -1,0 +1,49 @@
+DE BEZOUT ET CAucnY. 33
+
+Il remplaee ensuite ees conditions par ee que (tert-ains niineurs du deter-
+minant de M. SYLVESTER, 611 nombre (16 J), doivent &tre egaux ἐι zero.
+
+M. LEMONNIER, dans son important JIc'moz're sur l’dlz'minatimz, a donne
+des conditions exact-es pour l'existenee de 2) raoines communes ἒῑ deux
+equations algebriques. Ces conditions sont celles de M. Zssu'rHENjointes
+ἐι ee qu'un certain mineur du determinant de M. SYLVESTER doit &tre
+different (16 zero. Nous verrens bientsst cmnbien cette derniere condi-
+tion est indispensable.
+
+δαΐα-6 ἓι l'exposition qu'i] a faite de l'intinie liaison qui existe entre
+les methodes (16 ΒΕΖΟυΤ, (16 CAUCHY, (16 Μ. SYLVESTER et de M. mum,
+M. LEMONNIER transforme ensuite son theoreme, en sorte· qu'il s'applique
+31 la methode d'elimination de OAucHY.
+
+Ge dernier theoreme est aussi donne par M. BiEHLfflz, mais en fui-ine
+incomplete, puisqu’il a einis d'exiger qu’un certain mineur du determinant
+de OAucnY doit. etre different de zero.
+
+Nous allone lnaintenant disouter ces theoremes⁷ en nous bornant au
+eas (16 deux &quatiens (111 meme degre. Conservant les notations que
+nous avons adoptees dans le ‘fraite present, le theoreme de M. [1611οΝ-
+ΝΙΕΒ, pour deux &quatiens du 11161116 (16816, peut s’enoncer dela muniere:
+
+Pom' que les (leuas ‘squatiome (l) (limat μ ravines communes, et μ wales,
+ἐζ faut ut il szqffit que
+
+3521 = ⁴), Δξζῖ,,..-.9 ² 0, Afflm-:z Ξ 0, ···⁷ ΔΪΞῌ. ² 0
+et que, en mffime‘ temps, AY> ne soit pas ‹[q‹z[ ὴ afro.
+Ici nous avons, comme auparavant,
+eom 7 (11.1 7 · ⁰ · 7 (’0,ιι-ι-ρ
+
+el„ 7 ‘'1.1 π · · · π (’1,ι,-ι-9
+
+i (ἰι-1-(ι,ιι 7 ‘'u—l—-QA 7 · · ⁸ ἢ (Ιη-ι-ρμι-Ι-ε)
+
+et par Δᾷῗζιλ nous designons 66 qu’on obtient de 222¹, en y relnplaeant
+les elements (16 la derniere 601011116 par
+
+(ὐηι-Ι-ᾹἾ &unq—27 · ' '5 (sn—pLffl-l-l. ·
+
+On voit que Aff-Wq = Affll. Par suite les mineurs qui, dans 16 the-
+oreme de M. LEMONNIER‚ doivent s’evanouir s'obtiennent de AJLffl en y
+faisant successivement λ = μ-Ι, μ-Ξ, {1—37. .., Ο.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 5
+

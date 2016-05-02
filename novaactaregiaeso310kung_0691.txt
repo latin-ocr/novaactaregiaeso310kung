@@ -1,0 +1,42 @@
+m ALGEBRAISCHEN EBENEN CURVEN. 23
+
+Ε1116111 nicht auf Fundamentallinio belegenen doppelten oder fflickkehr-
+Punkte (161· C-Curve. entspricht bekanntlieh in der C'-Curve 111111161· 6111
+Punkt elerselben Art. Es wiire aber unreoht zu glauben, dass dasselbe
+fiir 61116 beliebige Singulari‘tiit geste. Dieses ist, wie man sieht, mer fiir
+n < 2722 {1711le sonst geht Ζ. B. 61116 (n, 1>-Punkt 111111161· in 6111611 1116111-
+singulfiren, und umgekehrt in vielen Fauen (161· 161216 111 (1611 ersten 111161.
+
+Dagegen 1111166611 0116111131, 111 Fo1ge (166 erwz‘ihnten Satzes, (116 Anzab-
+1611 (161· 111 611161· Singularitz'it vereinigten doppelten und Riickkehr-Punkte
+bei der Transformation unveriindert bleiben. Was (116 letzten betrifft,
+faut dieses sogleioh in (116 Augen, da (161· zwoite Index m keine 17611111-
+derung 61161ε16ῒ.
+
+ξ 24. b) Die C-Tangente geht durch 6111611 Fundamentalpunkt, 66
+661 O. Es geniigt in (1611 Formeln der vorigen ξ λ’ = le zu setzen. Ans
+(70) 1111(1 (72) ergiebt sich dann
+
+(73) ...... ff ——ln = οι (l1† ⁶4¹³ *st* Ab, -†- Χῖοι ÷¹ -1- )
+(74) .......... 1 -U Ξ NJ -Ι- 31oe Η -ff-
+Der C'-Punkt Wird also ἓ = [Ζ z ἦ, Tangyente (md Indices unver-
+
+‘'indert.
+
+25. c) Der c-Punkt liegt auf einer Fundamentallinie, 66 661 y = Ο.
+111 (1611 Formeln (161· ξ 23 setzen wir lc=0. Α116 (68) 1111(1 (70) folgt
+
+(75) . . . ιε’ = 02⁸² 4- 3⁷0st -1- λγιοιμῖ1 -4-..., ε’-Ιιαῖ = oe''¹(oe''' †*V⁰⁶⁷¹·†-N1⁰⁶⁷'†¹ -f- ....)
+
+Der C‘-Punkt wird also ὃ = ξ z (116 C'-Tangente ε’ = lm, (116
+
+ὅ 7
+Indices (21η, m).
+
+ξ 26. (Ζ) Der C-Punkt sei l} z g = ἓ, (116 C-Tangente 21³: lez. Aus
+(76) ...... [υ = Ῐι -1- ⁴Vena* -4- N1oe²²÷¹ . . .‚ 3] Ξ am, ,τ = 1
+
+folgt‚ nach (65),
+
+(77) ........ ιτ ’ = 2²¹⁶ , z'-lza³' = oe¹¹¹(N*oe'² 4- Nlaenss -4- . . .)
+

@@ -1,0 +1,58 @@
+2 O. F. E. BasmmNG, UBER ENTSPRECHENDE SINGULAeri'x'rEN
+
+die Evolvente unendliehe Singularitaten hat, ohnejedoch‚ nach seinem eige-
+nen Gestiindnisse ¹), das Probleln vollstiindig gelbst zu haben. Und jedoch
+sind eben jene Speoialfiille die gewissermassen wiohtigsten, da sie in der
+That fast die einzigen sind, die in der Praktik zu behandeln in Frage
+konnnen k55nnen, wie es sich sehon aus den Thatsachen ergfflbt, dass
+die Evolute der allgemeinen Curve dritten Grades von der 18²⁰¹¹ Ord-
+nung mit 108 doppelten und 27 Riiokkehr-Punkten ist, diejenige aber
+der allgelneinen Curve vierten Grades von der 36ιςῖμῃ Ordnung mit 532
+(loppelten und 60 Riiokkehr-Punkten.
+
+Von Formeloz fiir die Cl‘rarakterbestimmung wird es auch nicht im
+folgenden Frage, wohl aber von Metlmden, die, wie Wir hoffeu, in allen
+Fiillen fiir diesen Zweck hinreiohend sein werden.
+
+Letztens sei hier bemerkt, dass wir hier 111111161· die Coeffioienten der
+Curvengleichungen reell voraussetzen, und folglich dass die Curven sich
+in den beiden unendliehen Kreispunkten I⁷ J sich an derselben WVeise
+verhalten, sowie mit s Ξ O 111111161· die σεο-1111116 verstehen.
+
+ξ 1. Die Pnnktooordinaten (τ, gs, 3 einer Curve seien rational aus-
+gedrl'iekt in einen] Parameter αι, kurz
+
+«ί
+
+ω — y —
+(1) ........... <DQ - Md> - fla) 2
+
+wo φ, ψ, f ganze Funktionen sind 2). ‹Jedem oe-lVerthe entsprioht dann
+6111 curvenpunkt, und umgekehrt3 ι]’6(16111 Doppelpunkte zwei verschiedene
+oe-XVerthe. Die Parameterwerthe der Solmittpunkte der Curve mit der
+Geraden
+
+ 
+
+ 
+
+ 
+
+(2) ............ ιιιιτ -1- vy -1- w: Ξ O ,
+
+ergeben sich aus der Gleiohnng
+
+(3) .......... (ιφμΗ-υμωΗ-υψζω) = ο.
+
+Ε111 solcher Punkt fallt mit seinem niichstfolgenden zusammen, wenn
+zugleieh
+
+¹) »I have succeeded», sagt er (l. 0. S. 189), »111 determining the effeet‚not for
+a singular braneh of any kind whatever, but for branehes of the form y = ff,
+*tf-¹ = ff, ete.»
+
+2) Vgl. CLEBSCH, Uber Cui-ven, deren Coordinaten rationale Functionen eines
+Parfflneters sind. Borchardts Journ„ Bd. 64, S. 43.
+
+1
+

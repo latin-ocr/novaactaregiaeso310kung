@@ -1,0 +1,45 @@
+IN ALGEBRAISCHEN EBENEN CURVEN. 15
+
+Die (16111 Punkte O der Originaleurve entspreehenden beiden Punkte
+von P sind also 41: = Ο, y Ξ -1- lc, und die Tangenten der letzten 3] Ξ ss Ᾱτ,
+wie im vorans zu erwarten war. Ubrigens miissen dieselben drei Ffflle
+wie iu ξ 4 untersehieden werden.
+
+al) n > 2m, also η < Qvi—m). αἰ ist die niedrigste a-Dignitfit iu
+(48); die Indices der ΕΡ 8111(1 also (n, ‘tt—m), diejenigen der Parallel-
+curve folglich (n, m), oder diese letztere hat in beiden szlcten (limma Sin-
+yuloerz'tc'it wz'e (lie Origyiualcurve. Dieses hangt offenbar daven ab, dass der
+entsprechende Kriimmungs-Mittelpunkt unendlieh entfernt ist.
+
+(12) n = 2111, also n = 2<11-111). Die Indices sind im allgemeinen die-
+selben als im vorigen Falle3 fiir ein specielles ke verschwindet aber der
+
+Coefficient der niedrigsten a-Dignitat in (48) (und meglicherweise auch
+mehrere folgende)⁷ nfinilich fiir A: = ἦ, (1. h. Ξ (16111 Kriimmungsra-
+dius der Originalcurve in Ο (ξ 4, a2)). Die RP-Indiees sind dann
+(2111 -1- r, m), die P-Indices also (2722 -1- Γν, 111-1-1), wo r eine positive ganze
+Zahl ist.
+
+113) n < 2m, also n > Mra—m). Die RP-Indiees sind [2)(11-111), n—m],
+die P-Indices also dieselben. Fig. 21—24 zeigen fiir die vier obenge-
+nann‘cen (ξ 2) Falla die Formen sowohl der Original- und der Parallel-
+curve, als der zugeh'erigen Evolute ¹). Die erste und dritta Curve sind
+vollzogen⁷ die zweite nur punktirt. Dieselben Figuren zeigen auch die
+Formen der Ourven im vorigen Faue a2); nur 1111188 man daim eine der
+punktirteu Curven als Original betrachten.
+
+Es sei auch bemerkt, dass in den beiden Fellen αξ) 1111(1 (13)(116 An-
+zahl (161· in jedem der beiden P-Punkte enthaltenen Inflewionen immer
+dieselbe ist als in dem entsprechenden C-Punkte, niimlich n—m-l.
+
+ξ 15. b) Die C-Coordinaten a), y seien wie in (24), (25) ausgedri'ickt3
+68 ergiebt sich claraus fiir ΕΡ
+
+(49) . . . ἰι = 11ιὶ -i- iVnoffl‘ffl -1- 1)]101-1- 1)9ι '''''' Η -1- . . . . , υ = - m 7
+also
+(50) ....... ιι -i- υἱ = Nna'1-¹¹¹ -1- λζψι -1- 1)(>ι”“”’”Η . . . . ,
+
+¹) Man vergleiche hiermit Fig. 9—12. Die Curven G und P 1111158611 natiirlich
+ihre Concavitat gegen einander wenden, wenn der gemeinsame Kriimmungs-Mittelpunkt
+‚ewc'schen beiden liegt. ⁷
+

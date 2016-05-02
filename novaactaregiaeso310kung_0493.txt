@@ -1,0 +1,31 @@
+OF Two RATIONAL INTEGRAL FUNCTIONS OF (Γ. 5
+
+We have to write them thus
+
+.1‘''—⁷(c10‹rr -l- · · · ·l· ar) Ξ -(([νψιιῑ’””””-ι 'l‘ · · · ‘l‘ ³⁸) ‘
+‘sn-'spos' 4- . . . -†- ὒν) = -(()ι·ψιιῑ’”-Γ-ι ’l’ · · · 'l' δ’) ⁷
+
+in order to form the equations required in CAUCHY'S method of elimina-
+tion (See, for instance, M. Βοετοκ, Εἰόφηεηΐδ [Ie la lec'ore'e des Βότω-νηί-
+nante, pag. 118), then to divide, one by another, these last-written
+equations, which gives
+
+α0 (ΥΤ -ξ- . . . -ξ- αΓ ἡ ar41-1¹'¹‘'r“¹ -ξ- . . . -Ι- a„
+δοῖ· -f- . . . -4- h„ 5241 ,θ’-Η 4- . . . 4- b„ 7
+
+ 
+
+and finally to clear of fractions and to transpose all the ternis to the left
+member. We thus obtain an equation, the left member of which evi-
+dently is the very function f‚.(J·), such as it is written in (6) cleared of
+superfluous ternis.
+
+VI. As to the method now given we make the. following re-
+marks, viz.
+
+lStly Every time the Rule in IV is applied, it gives two new func-
+tions, both of lower degree than the next foregoing oneS, and
+
+2⁰⁶ly It cloes not require any division, because that in V can be
+replaced by multiplicatiori and subtraction.
+

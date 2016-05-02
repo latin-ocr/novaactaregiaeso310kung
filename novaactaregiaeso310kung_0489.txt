@@ -1,0 +1,38 @@
+By researehes on the method of elimination, which has first been
+given by Bsszom and developed afterwards by ΟΛυοΗΥ, M. CAYLEY and
+others, I have found the fOHowing method to obtain the greatest common
+measure of two rational integral funetions of ιι’.
+
+When the greatest common measure involves a faetor of the form
+(πμ, that factor derives from the existence of factm-s of the form αθ and
+ω’] in both the given functions. Clearing the given funetions of such
+fae‘cors⁷ the other factor in their greatest common measure will be the
+greatest common measure of the new functions thus obtained. There-
+fore it is evidently sufficient to treat the problem of ιῙίηᾱίηῃ tlze yreatest
+common vitea-§core of tic-0 rational z'rzteyral sinuatione, ‘neither involving] a power
+of ,υ as factor. ¹
+
+Ι. Supposing we have the functions
+
+1 (DQ) Ξ ΑΟιΤΨ -i- Alrv'n‘l ·{*- . . . :lm-158 -ὗ- Am 7
+(l) ’’’’ l ³1³(21‘) Ξ Βοιϊῖι -i- B1.r⁷¹-¹ -1- Βη-μϊ *i* B„
+
+and m Ξ n, we get the them-em:
+
+If
+Α A, ἡ - 24st ,
+
+(2) ........... ΙῖοῑῖΙ-...Η-Βω
+
+0
+
+Φᾴν) ancl Ψ(ι) can only differ bg] α constant factor, is ’1η Ξ n,- bzc†*{s'71z<n‚
+their gyreatesz‘ common measure is· tlte same a& that of tlte fwzctions Φ(ιι,’) and
+
+“l-rlssv), where
+(3) ...... Ψιριέ) = B2fl41⁴1·”*'“‘¹ -†- ..... -1- Bn-vl‘ -1- ΒΗ.
+
+For from (1) and (2) we get
+
+Nova Aeta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. l
+

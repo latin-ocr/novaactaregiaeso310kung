@@ -1,0 +1,61 @@
+6 O. F. E. ssmxzmm, Ussmz ENTSPREOHENDE SINGULARlTi'xTEN
+
+Die Normale ist dic durch den C-Punkt gchcnde Gerade, deren
+Schnittpunkt mit der 00-Linie mit demjenigcu der G-Tangente harmonisch
+conjugirt ist in Bczug auf die unendlichen Kreispunkte I, J. Bei der
+Behandlung der C-Singularitiiten mussen wir also vier verschicdene Fiille
+untcrscheiden:
+
+α) Der C-Puukt, ist cndlich, und scine Tangente geht nicht durch I
+oder J. Wir vcrlcgcn daun den Anfangspunkt O in diesen Punkt und
+
+nehmcn — was immer erlaubt ist, da eine Drehung des Coordinaten—
+systcms die Lago der Kreispunkte nicht vcriindert — die (f-Tangente
+zur ,ι’-ΑΚΘ.
+
+b> Der C-Punkt ist endlich, und scine Tangente geht durch I oder
+J, d. h. ist Focaltangentc. Wir verlegen O in den C—Punkt.
+
+(τ) Der c-Punkt ist unendlich entfernt, aber nicht Kreispuukt. Wir
+legen die y-Axe durch den C-Punkt.
+
+d) Der C-Punkt ist ein unendlicher Krcispunkt.
+
+ξ 4. α) Die Coordinaten (ι’, J] der Originalcurvc C scien wic in (16)
+ausgedruckt (s ·- 1), und folglich
+
+(18) . . . ⁶!AE Ξ mam-¹, Q z [wan-¹ 4- 4V1(n 4- 1)αι” -ἦ- ANV-,Ol -Ι- 2)ι;ι””’ΓΙ -f- . . ..
+
+«la (lot.
+
+Die C-Ncrmale ist
+
+<19>.--f{{<2—:12>÷ ‘sl-L (ηᾈωεο oend “¹‘'2÷“22s›7 (v1'11‘÷2s‘'2²s)320;
+
+{loa «loa ι doe '⁷ (loa
+
+ 
+
+durch Verglcichung mit (17) ergiebt sich
+
+u Ἡ [ζ’
+
+(20) .......... (lm - dy Ξ (Λαιιᾏῆ-ᾙαμ),
+
+‘l da ¹ cla,
+
+ 
+
+ 
+
+ 
+
+Ha, da
+
+und folglich, nach Verktirzen mit ‹zm-¹, da wir den Proportionalitiits-
+faktor, auf dessen Werth cs nicht ankommt, hier wie {iberall im folgen-
+den = 1 sctzen,
+
+(21) . . . u = m, v = Nnoe⁷¹“'¹‘ -1- ΔΤ,(η -l- 1)ι>ι”“”’”Η -Ι- ΛΕΜ -1- 2)οι”””’·θ2 -1-.... ‚
+(22) ...... ss u· = mam -1- ,Νἳποιὲμω -Ι- AUVlffln -1- l)a²²¹·‘⁷¹¹†¹ -Ι- . . . .
+

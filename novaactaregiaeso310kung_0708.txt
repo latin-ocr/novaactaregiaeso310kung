@@ -1,0 +1,50 @@
+10 O. PETTERssoN, EXPERIMENTELLE METHODEN UND UNTERSUCHUNGEN
+
+wird, wenn das Quecksilber im Steigen oder im Sinken ist. Bei ihren
+Untersuchungen iiber die spec. Warme des Wassers zwischen 0⁰ und 7⁰0,
+haben PFAUNDLER u. PLATTER gezeigt‚ wie verhiingnissvoll diese Fehler-
+quelle auf das Resultat einwirken kann. Es ist eiuleuehtend‚ dass dieser
+Fehler (Wenn er bei unseren Thermometern wirklich vorhanden ist) auf
+die Bestimmung von z und τ, und dadurch auch auf α und α, etwas 6111-
+Wirken muss — auf X wird er jedenfalls keinen Einfluss ausiiben. Dif-
+ferentiirt man die Gleichung auf τ und 1¹, indem man annimmt, dass
+durch etwaige Verzbgerung des Quecksilberfadens, die Endtemperatur δ,
+111 A und A¹ und dadurch auch τ und r, um ein wenig zu gross, z. B.
+11111 0⁰.01 C. bestimmt ware, so wir-d wird [d1“= 0⁰.01; dcl = 0⁰.01]
+
+15&.910
+τ = m
+
+158.910. 4⁰.315
+
+‘³²³ *- md
+
+(1τ; 1111(1 (11η,Ξ
+
+dxv = 0.000077 und (11(τι = — 0.000073
+
+Die Bedeutung dieser Formel ist folgende: Constante Fehler 111 (161
+Bestimmung von τ 1111(1 r, haben auf das Resultat keineu Ein-
+fluss. Die Temperaturerhehung τ des Wasserealorimeters erfolgt in fast
+identischer Weise, wie die Erwitrmung des Quecksilbercalorimeters2 wird
+der Quecksilberfaden 111 ι]“6116111 Fall verzegert, so wird er wahrscheinlich
+auch bei dem Quecksilberexperiment um ebensoviel verspittet, die 1611161-
+haste Temperaturbestinnnung im Versueh A wird durch denselben Fehler
+111 A¹ compensirt, deun die Einwirkung beider Fehlerquellen auf das
+Resultat ist gleich gross aber von entgegensetztem Vorzeichen.
+Ganz dasselbe gilt ven allen Umstiinden, welche auf die Temperatur-
+erhbhungen z und r, sterend einwirken kennen: weun nur der Fehler 111
+beiden Pallen gleich gross ist, so wird die gesuchte spec. XViirme dennoch
+richtig. So z. B. wird der Eisencylinder 1161111 Ueberfiihren von dem
+Luftbad zu dem Calorimeter etwas von seiner XViirme an die Luft ver-
+lieren¹), wenn aber diese Operation gen-au in derselben Weise im Versuch
+A wie in A1 ausgefl'ihrt wird, so wirkt dieser Witrmeverlust nicht sterend
+auf das Resultat.
+
+Correctionsfehler: Die Anfangstemperatur des Calorimeters t.
+und die Temperatur des Luftbades θ siud constant und 111-1111611611 keiner
+Correction. Wenn die corrigirte Endtemperatur δ1 fehlerhaft bestimmt
+
+¹) XVahrscheinlich nieht vicl, weil die Obcrfli'rchc desselben sel-gt'frltig polirt und
+die Temperatur cles Luftbades nur 12ο bis 15ο 11ὸ1161· als die Zimmertemperatur ist.
+

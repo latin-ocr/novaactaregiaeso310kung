@@ -1,0 +1,56 @@
+20 O. F. E. BJoRmNG, UBER ENTSPRECHENDE SlNGULAmrIxTEN
+
+flexionen kennen dabei verloren gehen, sowie auch neue solehe hinzu-
+treten ¹).
+
+ξ 20. VVenn die Originalcurve unieursal ist, und ihre Linieneoordi-
+naten u, v, rw sich folglioh als rationale und ganze Funktionen vzten Gra-
+des von einen] Parameter darstellen lassen, kann das Gesehleeht der Pa-
+ralleleurve leieht gefunden werden und soluit zur Controle der Charak-
+
+terbestimmung dienen. Die Linieneoordinaten (11, v, 11· ;1; l„- Va2÷1÷2⁴> die—
+ser 1612160 Curve werden 11ἑί11111611 darm rational bis auf die Quadratwur-
+zel aus 61116111 Ausdrueke⁷ weleher vom Grade 2ν is‘t,7 insofern nieht qua-
+dratisohe Faktoren sich ausserhalb dem XVurzelzeichen fiihren lassen.
+Das Gesehieeht 611161· Cui-ve, deren Coordinaten rational sind 1116 auf
+eine Quadratwurzel aus 61116111 Ausdrueke 11-1611 Grades, ist. aber (wie sich
+
+ 
+
+. . .. n nel -
+leieht zelgen lasst) δὴ1 oder Ο , Jenaehdem 11 gerade oder unge-
+
+2 fl
+rade ist.
+
+Als Beispiel untersuohen wir die Paralleleurve der Curve yffi = amu
+(n > m, und beide relative Primzahlen). Hier ist μ = ν = ⁷2, δ = τ =
+
+Ξ ἔζη-2) (γι-3), κ Ξ ι = n—2. Die Curve hat einen (n, m)-Punkt in O
+
+und einen (n, n—m)-Punkt fiir :12 z ε 2 Ο, sonst keine Singularitaten. Man
+6111ἐ11ῒ7 also ν’ 2 211, μ’ = 411-2111, ι’ = 272ffl4, und hiel-aus das Gesehleehss
+
+¹) Dass der ziemlieh allgemein angenomme Regel ι’ z 21 gar nicht ausnahms-
+los ist, zeigen sehon folgende Beispiele:
+
+1) Die dreispitzige Hypocyelo'i'de hat die Charaktere: μ z 4, δ = Ο, κ = 3,
+ν z 3, τ :1⁷ ι z O; sie berillirt die 00-Linie in I, J. Ihre Parallelcurve hat also
+(ξ 17, (ῳ) 111 jeslem dieser Punkte eiwon Zweig mit den Indices (4, 2), und ihre Cha-
+raktere werden μ’ = 8, ν’ z 6, ι’ = 2.
+
+2) Die Cardioide und ihre Parallelcurve haben dieselben Charaktere wie die
+ebengenannten Curvelu der Ursprung (161· Inflexionen ist aber hier etwas anderer.
+Die Originalcurve hat mamlich in Ι, J Spitzen (d. h. (3, 2)-Punkte) mit endlichen
+Tangentem P hat also (ξ 17, dm» 111 jedem dieser Punkte einen Zweig mit den In-
+dices (6, 4).
+
+3) Die in ξ 12 611νὲ1111116 Curve 9ay² = a: (cce-305² (wo μ z 3, vb= 21. ι = 3)
+hat eine zersallende Paralleleurve, von welcher jeder Bestandtheil die Charaktere
+μ’ z 5, ν’ = 4, ι’ = 1 hat. Zwei endliche Riickkehrtangenten der Originaleurve gehen
+niimlieh durch I und J; jeder ihrer (3, ])-Ber'i'1hrungspunkte erzeugt also (ξ 15, ῖ),))
+zwei (2, 1)-Ρ11111ζ16 der Parallelcurve, oder m. a. W. die betreffenden C-Inflexionen
+gehen verloren.
+
+mnu-1 Ρ-Αια,
+

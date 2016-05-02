@@ -1,0 +1,49 @@
+FonMnLns POUR LA DETERMINATION 616. 15
+
+R Ξ 6111Α ᾖξ’
+
+‘l
+
+(l . sinA ((1ῐέ > O ,
+
+ 
+
+O Ξ — (ll).
+
+La (161111616 (16 ces equations niontre qu’il nous faut donner ἐι la
+quantite p une valeur constante, et il suit de l’equation
+
+p² -1- (1² Ξ 6111214
+
+que la valeur absolue de p doit C—tre inoindre que Punite. Pour satisfaire
+ἐι ces deux conditions nous pronons
+
+J) = cose Ξ constant.
+
+N'ayant pas maintennnt plns (16 deux equations contenant q, A,
+B, nous pouvons remplaoer 1’11116 (16 ces trois quantites par une fonction
+de 8, arbitraire au moins entre oertaines limites. En choisissant ’ἐι 06116
+fin la quantite «J nous voyons que 06116 quantit& doit 6116 remplacee par
+une fonction numeriquement plus petite (011 du moins pas plus grande)
+
+que sine, afin que nous aurons
+cos²c -1- «1² Ξ sium.
+Cette condition est remplie, si nous prenons
+q = sin c . sin 1ι,
+u etant 11116 fonction de s.
+
+Les quantite's p et «J etant (16161111111666 de cette 1116111616 110116
+obtiendrons facilement 1111 6516161116 (16 valeurs de sinA7 cosA, clB savoir;
+
+sinA Ξ cosu . Voos²c -1- 1821ι,
+006Α = oos u . sin (τ,
+
+006 c . clu
+(ΖΒ — 7
+
+ 
+
+(cos²c -1- tg²u) cos²u
+
+qui satisfait aux equations
+

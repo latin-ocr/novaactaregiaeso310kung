@@ -1,0 +1,48 @@
+IN ALGERRAISCHEN EBENEN CURVEN. 13'
+
+ξ 12. Wif erwa'hnen zum letzten einige Beispiele.
+
+Wenn C vom dritten Grade ist, kann die. Ordnung der Evolute (die
+im allgemeinen 18 ist) bis vler sinken. Dieses eintrifft
+
+wenn C eine einzige Inflexion hat und entweder in derselben die
+oc-Linie berfihrt ())divergirende Parabel mit Spstzem), 0(161’6111(111ἑὶ11611
+()›(¹iss0‘1'de)3›);
+
+oder wenn C drei Inflexionen hat und in einer von ihnen die 00-Li-
+1116 1161111111 (»divergirende Parabel mit Doppelpunkt)))‚ wfihrend (116 bei-
+den iibrigen Riickkehrtangenten durch Kreispunkte gehen. Z. Β. Die Curvo
+9ags² z ,1:2(.1·—3a)² hat die Evolute
+
+256α(α-2.ιτ)3 -4- 288ay2(7a-6.1r) Ξ 81]]4 .
+
+Die Orduung der Evoluten der Curven merten Grades ist im allge-
+meinsten Falle 36, kann aber bis υἱεῖ· sinken. Dieses eintrifft z. B.
+
+fiir bicirkuliire Evolventen mit den Charakteren μ = 4, ὃ = 2, κ = l⁷
+1225, ⁷²27 1:43
+
+und fiir Evolveuten mit drei Riickkehrpunkten, wem} entweder zwei
+von diesen in I, .] belegen sind (»Cardio·1‘de»)‚ oder die Curve die oc-Li-
+1116 111 I, J beriihrt ())Dreispitzige HypocyeloIde») In den beiden letzten
+Fallen ist (116 Evolute der Evolvente ganz ἐ1111111011.
+
+Α11611 unter Curven vom fiinj'ten, und sogar unter denjenigen vom
+seclzsten Grade trifft man solehe mit Evoluten von dem vz'erten. Ein Bei-
+spiel der letz‘sen Art bietet eine tricireulz‘ire- Curve mit den Charakteren
+μ = 6, ὃ = 6, κ, z 4, v Ξ 6, τ = 6, ι z 4, deren Coordinaten, rational aus-
+geclriickt, sind
+
+¹ Js -
+
+αἳμἪζ4α2-1) “ 400³ “ (0611)(αῆ 62241) ³
+
+C) »Die endlichen Inflexionen der Evolvente erzeugen ebensoviele unendliche
+Punkte der Evolute». Dieses ist nieht wahr, erstens wenn die Inflexionstangente durch
+Kreispunkt geht, zweitens wenn die Inflexionen mit Punktsingularitiitcn verbunden
+sind (ξ 9). Kommt das letztere in einem (η, m)-Punkte von C vor, so werden fiir
+
+n ξ 27η yar lmine unendliehen E-Punkte davon erzeugt‚ obgleieh der G-Punkt n—m-l
+Inflexionen enthfflt3 fiir n>2m freilich 22—2m unendliehe E—Punkte‚ welche Zahl
+jedoch mit der soeben genannten n-m—1 nur fiir m = 1 iibereinstimmt.
+

@@ -1,0 +1,48 @@
+IN ALGEBRAISCHEN EBENEN CURVEN. 11
+
+gemeinen entsprechen sich die Gurven C und E eindeutig ¹); sie haben
+daun dasselbe Gesehlecht, und dieses kann als Controle der Charakter-
+bestimnlung dienen.
+
+Um die drei genannten E-Uharaktere μ’, ν’, ι’ bestimlnen zu kennen,
+muss man von der Curve C 1111 vorans kennen lzo) ihre Cl1araktere,2:o)
+ihre Punktsingularitiiten, 310) die Besehaffenheit ihrer unendlichen Punkte‚
+und 410) ob irgend eine ihrer (endlichen) Focaltangenten in endlichem
+Punkte eine Beriihrung von 11ὂ118181 Ordnung als der ersten hat, oder
+m. a. W. ob zwei oder mehrere der endlichen Schnittpunkte der Curve
+Qs'(‹⁷³, ι1χ);() und der ersten Polare f-‘r ss {1⁴}ss Ξ O eines Kreispunktes an
+irgend einer stelle (anderen als in Punktsingularitiiten von C> zusam-
+menfallen.
+
+ξ 9. Um μ’ zu finden, bestilnme man die Anzahl der unendliohen
+E-Punkte. Diese entstehen
+
+120) in Falla a) fiir n> 21η. Diese C-Singularitz'iten 1111188811 also
+jede fiir sich nntersuollt werden, doeh nieht menn sie nur Liniensinfflclari-
+riiten, cl. Ιι. (n, l)-szlcte sind ².) Ein soloher G-Punkt erzeugt niimlich
+(ξ 4) 71-2 unendliohe E'-Punkte⁷ d. h. ebenso viele als die in diesem
+C-Punkte enthaltenen Inflexionen3 darauf wird also im folgenden Mo-
+mente 220) Rstcksich’s ι88110111111811.
+
+210) aus den endlichen Inflexionspunkten der Evolvente,i11sofern
+sie nieht mit Punktsingularitaten verbunden sind, oder die Inflexionstan-
+gente durch Kreispunkt geht. Der erste Fall ist 1111 vorigen Momente
+behandelt, im zweiten geben die C-Inflexionen keine unendliehen Ε-
+Punkte (ξ 5).
+
+320) aus den unendlichen C-Punkten‚ welche jeder fiir sich ‘nach e)
+und d) (ἓξ 6, 7) untersuoht werden miissen.
+
+ξ 10. Um ν’ zu finden⁷ bestimme man die Anzahl der E—Tangenten‚
+die aus 81118111 3111111ἑὶ180 unendliehen (nicht Kreis-) Punkte P gezogen
+werden kbnnen, Diese Tangenten sind
+
+ι) Doch ist dieses nicht immer der Fan. Die Curve G und ihre Parallelcurve
+P haben dieselbe Evolute E, aber im letzten Falle doppelt gerechnet‚ d. h. einem
+E-Punkte entspreehen zwei P-Punkte (CAYLEY, Quarterly Journal, Vol. XI, s. 194).
+
+²) Dieser Umstand ist 111 praktiseher Hinsicht von Wichtigkeit‚ denn die Be-
+stimmung und Untersuchung dieser Singularitiiten ist bekanntlich — da wir die (1181-
+chung der c-Curve 111 szktcoorde'naten gegeben voraussetzen —— bei weitem schwie—
+riger als diejenige der Punktsingularitiiten.
+

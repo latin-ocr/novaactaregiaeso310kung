@@ -1,0 +1,63 @@
+FORMULES POUR LA DETERMlNATION eto. 19
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Z
+ζῐηῇ.) · fv
+OU
+]. 5b(l-}-a²) J
+5²b(1†a2>·008'e α ζ’ΉῑἫ
+
+²7: 1 qingl‘t(l-†-a²')Z-†— ἦ.
+J;›(1-1÷a·-'>·‘> e a ⁷²³
+
+ 
+
+ 
+
+Ces &quations sont celles d'une helice ordinaire.
+3. Trouver les combas· dont la marmore α une valeat* constante K.
+
+λ 1⁶¹⁸ solution. Employons les formules du Tlffiorbme 1 (211 les
+&crivant
+
+AB
+
+Ksinffi Ξ sinA — ⁷
+
+ds
+K cos& Ξ ᾴΙῖ ·
+
+Elles donneront
+clm Ξ sinA sinB . ds· 7
+
+dy Ξ sinA cosB . ds ⁷
+cl: Ξ oosA ,
+
+A = K s cos& <Is .,
+
+ 
+
+, ‘ sin& (Is
+B Ξ A Ι sin (Α’[οοξθᾟῆ ¹
+
+2⁶³⁹ solution. Sortons des formules du meme Thtssorbme en les
+&crivant
+21² -ὗ- (ίῖ = sium,
+
+R Ξ sinA g ⁷
+«J t
+
+K. q . ds = - d cosA⁷
+
+et observons que les trois &quations contiennent cinq qua11titcsss. On
+peut donc faire d⁷une (Pelles, ou mssme d'une combinaison de deux ou de
+plusieurs d⁷entre elles, une fonction arbitraire d'une autre. Par cons&-
+quenb il est permis de mettre
+

@@ -1,0 +1,44 @@
+2 M. FALK, METHOD To FIND THE GREA'rEsT 001111111οΝ MEAsURE
+
+xyst) = 3¹3 Φζιυ), if m = n,
+‘and
+B„ .‚
+²11(J¹) Ξ J .1.·”“””Φ(.1·) -1- Ψιζαὶ), lt 111 < u.
+
+These equations demonstrate evidently the truth of the theorem.
+
+It is of praetieal use to observe, that 1111)]11111111111 Ψ, (1) is imme>-
+clim‘ely obtained by( onzitting) in Ψ<,1’> all tlte ternis, which involve the m -1- l
+[wyslae-§t pon-ers· af ,1.
+
+ΙΙ. If, when 111 < 11, the theoren] just proved is also applioable
+to the funetions d‘(,z²) and Ψι (1), either the greatest common measure
+of the given funetions will be found by simply applying the theo-
+rem, or one will obtain a new func-tion, sueh that the greatest eom-
+111011 measure of it and of that of the funetions Φ(,ν) and Ψκω), which
+is of the lower degree, will be the same as the greatest. common mea-
+sure of the given functions. Going on in this way applying the
+theorem as often as possible, either the greatest common measure of
+the given functions will be found 01· one must finally obtain two fune-
+tions not satisfying the eontlitions of the above theorem, the greatest
+0011111101] measure of whieh will also be that of the given func-tiens.
+
+lt remains, therefore, only to shew, how to find the greatest common
+measure of two furiet-iens, neither of them involving a power of2z· as faetor
+and both ot* which are such, that. their eoel'fieients do not satisfy the whole
+system of osmclititms (2) for the 11111111011111111)ν of the theoren] in I. Morem-er,
+allowing one of these func-tiens, hut 11111 both, to eontain a power Osa> as
+faetor, we may suppose them to he of the same degree, because, as by
+suppositien their greatest common measure does not involve any power
+of a? as faetor, it will remain unaltered, if we multiply the funetion of
+the lower degree bv a suitahle power of ar.
+
+ΙΙΙ. Suppose we have the functions:
+
+7 [φω z aum* -1- ‹qast-¹ -1- -Ι- 11,,-,,1’ -l- (ιη,
+(4) ””” 1κ1(ι) 2 hoff *Ι* b11'1²'¹-¹ 4- -1- ὁη-μ· -l- b„
+
+of which both (10 not involve powers of «ι’ as faetors and which at the same
+time are sueh, that not all the eoeffieients in that, where the index of the last
+eoeffieient that really oeeurs is the least, are proportional to the correspon—
+

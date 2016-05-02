@@ -1,0 +1,47 @@
+IN ALGEBRAISCIIEN EBENEN CURVEN. 5
+
+Nach den beiden Zahlen n, m — »dem ersten und zweiten Index
+des Punktes O — benennen wir denselben einen (11, m)-Punkt. Ein
+(2, 1)-Punkt ist also 6111 gewbhnlieher, nieht singulitrffl·¹); 6111 (3, 2)-
+Punkt 61116 Spitze, 6111 (37 1)-Punkt 61116 Inflexion. Ε111 (n, 1)-Pu11kt
+enthfflt offenbar nur Liniensingularitatem (doppelte und lhiekkehr-Tan-
+ἔις6111;611); 6111 (η, n—l>-Punkt folglioh nur Punktsingularititten (doppelte
+und Riiekkehr-Punkte). Denn 1111 allgemeinen 6111ἑ111 man, (1111611 Ver-
+gleichung von (9—11> mit (12-14>2
+
+Em (n, ‘HQ-Paula} ist immet· zu einem (uf, n—*myl'cmlste reciffl'olc.
+
+Wenn (116 Gleiehung einer Curve. gegeben ist, kann man bekannt-
+11611 61116, 111 611(11161161 Umgebung 611166 gegebenen 111161 Ρ11111116 giil‘ssigss⁷
+Eutwickelung von y nach staeigenden, 811οΖ611(1(161ἕ6ὒ10611611611 Potonzen
+von ,ι’ 6111311611, 1ν61111 111-(111 Ο 111 (1166611 Punkt verlegt und (116 Tangente
+(166 betreffenden (turvenzweiges zur .1¹-Axe 1111111111,; 11ἑ111111011
+
+1142
+
+η 1141
+(15) . . . ,μ = x(<11·))“¹ ÷ As⁷1<(.1‘>)T † 41116)) ÷ . . . .
+
+wir setzen daun
+(16) ..... 1] ³ σιω, also gs Ξ AD& -1- *Vloffl*sl -1- λ’ᾏσιΗΪ -1- . . . .
+
+1111(1 11611111611 1111 folgenden 111111161· (116 Coo1·di11a†e11 der (*u1·ve C 111 (116661
+oder analoger Form ausgedriiokt an.
+
+Ε V 111111 T 1⁴] N.
+
+ξ 3. Die Evolute E ist (116 Enveloppe der Normalen (161 Original-
+ourve oder Evolvente C3 bei der Untersuclmng ihrer Singularitssiten ver-
+fabren wir also folgendermassen. Die C-Normale 661
+
+(17) ............ αξ -1- (ἠ -1- urg = 03
+
+(ι, v, w sind also (116 Linienooordinaten der Evolute oder (116 Punktcoor-
+dinaten ihrer reciproken curve RE; aus (161 Beschaffenheit dieser letzten
+im betreffenden Punkte ergiebt sich nach (16111 Principe (161· Β11311ῐέ11 1111-
+mittelbar diejenige (161 Evolute.
+
+¹) Womit natiirlich nieht ausgeschlossen ist, dass ‹lnrch denselben Punkt der
+Ebene ein anderer Zweig derselben (Tm-ve, wozu 61η anderes a-NVerth und ander(- ‹z-
+Entwickelung gehbrem gehen kann.
+

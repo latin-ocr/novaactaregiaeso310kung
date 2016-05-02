@@ -1,0 +1,34 @@
+Iln folgenden wird die Frage behandelt: Wenn zwei Cui-ven (J und ('‘
+111 irgend einer Verwandtsehast mit einander sind, welche Singularitiit 111
+(Γ entsprieh‘s einer gegebenen (AT-Singularitiiit? Ffir diesen Zwe<·k 11611111-
+zen wir eine Reihen-Entwiekelnng der Coordinaten, analog mit der von
+OLEBSGH fiir nnieursale Ciu-ven gefundenen rationalen Substitution.
+
+Diese Methode wenden wir daun auf drei Fiille an, ninnlich wenn
+(Γ die Evolute der Cnrve C is‘s7 oder ihre Parallelfflirve, oder damus
+durch (piacli-atisclie Transfornialien gebildef. Ans den so erhaltenen Re-
+sultaten konnen 111 der That die entspreehemilen fiir die meisten, 911νό1111-
+11(·11 111 Frage koninienden Fiille lein-ht hei-geleitet werden. Von quadra-
+tisehen Trausformationen (WOVOH die circulare Inversion bekanntlieh 11111·
+eine Speceialitiit ist) kennen ja alle fiir die ganze Ebene eindeutigen
+Transformationem (die Cremcmdwhen) zusammengesetzt werden3 die Tan-
+gentem-Fusspunkteurve einer Cnrve (⁷¹ ist die Inverse ihrer Reoiproken,
+ihre negative Fusspnnklenrve dagegen die Reoiprelze ihrer Inversen3 die
+Nor-malen-Fnsspnnktenrve ist die Fusspunkteurve der Evolnte⁷ und die
+Rei-leximns-Brennlinie die Evolute der Fusspunk‘teurve.
+
+Die LUsnng des hier hehandelten Prohlems ist, wenigstens was die
+beiden erstgenzninten 061161· 1)6ῒ.1·11ΐῒ, eine nothwendige Bedingung um die
+mehrmals behandelte Frage von der Bestinnnung ihrer PLUCKER'sehen
+Oharaktere vollstitndig heantworten zu ki'nnien. Um nur von den Evalu-
+ten zu reden7 ist es noch nieht gelungen und wird wohl auch niemals
+gelingen ihre Charaktere durch in allen Fiillen riehtige Ewnwln 11113211-
+drfieken. In dieser Beziehnng mag es hinreiehend sein auf die [inseres-
+wissens bisher vollstiindigste Untersuchung iiber diesen Gegenstand
+(CAYLEY‚ On evolutes and parallel curves, Quarterly Journal of Mathema-
+ties, Vol. XI, S. 183) hinzuweisen, wo der beriihmte Verfasser eine sehr
+ausfi'ihrliehe Tabelle aufstellt iiber die Veriinderungen, welche die Ord-
+nung, Classe, Spitz- und Inflexions-Zahlen der Evolute erfahren, wenn
+
+Nova Acta Regu Soc. Sc. Ups. Ser. 111. 1
+

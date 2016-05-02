@@ -1,0 +1,42 @@
+DE ΒΕΖουΤ ET CAUCHY. 3-
+
+telles 116161116 (16 ἱ, ce qui est evidemment permis, pourvu que l'on con-
+vienne de reg-arder ces coefficients comme egaux ἐι zero chaque fois
+qu'on a i<0 ou >η.
+
+Comme consequence de cette convention nous 1110116 que
+
+(818..- = 0
+
+pour chaque valeur de i qui satisfait ἐι l'une quelccnque (166 inegalites:
+(7) ...... i<0‚z'>n‚ 9<i—.s·—1‚9>n⁴.s·—l-†-2‘.
+
+La derniere de ces inegalites nous informe que, pour chaque valeus
+(10111166 (16 i, (8)(,μ devient nul, quand on attribue a ρ 11116 valeur > n—s—-l -ff-i.
+Cela, joint ἒι la circonstance qu'on a toujours ,ς-ἱζθ, 110116 permet donc⁷
+dans l’equation (5), d'elever ἐι n—l la limite superieure de la sommation
+par rapport ἐι ρ.
+
+Si, de plus, 110116 convenons de remplacer (effit- par zero, 011, 06
+qui revient au meme, de supprimer cette quantite, chaque fois qu'on a
+·ἱ>ρ, la limite inferieure de la sonnnation par rapport 91 ρ peut s'abais-
+661· ὲ ρ = O.
+
+Cela pose, l'equation (5) peut s'ecrire:
+
+Ξ Ξ S (8,, , 8--8,
+
+puisque, conservant les limites des 6011111166, 011 peut intervertir l'ordre
+des sommations, quand 066 limites sont inclependantes l'une de l'autre.
+En posant
+
+(8) ............... S (8),Ξ eos, ,
+
+l’equation precedente devient:
+
+Quant ἐι la formule (8), il ne faut pas oublier que chaque terme (3)<›vf dans
+lequel ἱ est > ρ doit &tre remplaec' par :e'ro ou supprime'.
+
+4. Les quantites “se jouissent de la propriete remarquable qui
+s'exprime par la formule:
+

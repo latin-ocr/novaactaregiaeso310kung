@@ -1,0 +1,55 @@
+FORMULES I‘OUR LA DETERMINATION etc. 17-
+
+Or il entre dans ces equatious trois constantes ct une fonction
+arbitraire. On pourra donc (lisposcr (16 ces quantites de muniere ἐι faire
+represent-er aux equations une courbe quelconque dans chacun des points
+de laquelle il existe un rapport
+
+Par consequent elles nous fournissent la solution generale (111 probleme
+propose.
+
+Observons qu'il faut mettre
+u Ξ u - sffds,
+
+si 011 cherche les courbes dans lesquelles les deux courbures ont 611
+chaque point un rapport constant
+
+T
+ῑςΞ-αν
+
+et
+
+u=u÷F<s>‚
+
+si l’on veut un rapport de la sorte que
+
+T2
+
+βπ) z (12.
+A*
+
+Du systeme obtenu nous tirons
+
+ 
+
+ 
+
+ 
+
+ 
+
+cosm cose . Q -Ι- sinmcosc . Q -1- sinc . Q Ξ s 1 , . sinu ‚
+ds (Is ds y 1 -Ι- (1²
+, (lar dy 1 ,
+- 8111111 . - -l- cosm . —‘ Ξ 1———ss . cosu ‚
+ds ds l 1 -l- σι2
+, (lav , ‚ dy d: a
+cosm smc . — -}- 8111111 smev . — —- cose . ἡ = ——ff ·
+(Is (Is ds V 1 -1- α2
+
+La derniere de ces equations nous montre que les courbes cherchees sont
+
+des helices.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 3
+

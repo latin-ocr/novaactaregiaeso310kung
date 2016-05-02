@@ -1,0 +1,80 @@
+FoRMULEs POUR LA DETERmNATJoN etc. 29
+Ο
+
+6. Trouvev· les rfourbes dont la tinus-ion et la cam-bure satz'xfont «ἵ
+l'e'qzczztion
+
+aT-l- bK Ξ 1.
+
+011 sair qu'il doit exister entre la torsion et la courbure d'une colu-be
+
+, donni—e une equation lineaire⁷ afin qu’il soit possible cle trouver une autre
+
+courbe dont la normale principale appartienne aussi :1 la¹ eom-be domme.
+
+Or nous cherchons en ce eas les courbes qni safisfont ἐι cette condition.
+Les equations du theoreine l7 lnises sous la forme suivante
+
+‘lm Ξ sinA sinB . ds ⁷
+dg( = sinA cosB. clx „7
+cl: = cosA. (ΙΝ ,
+
+[1²² -l- «f Ξ 3111214 ⁷
+L) AB
+
+‘J = sinA.H7
+
+(μάλ) -l- l1.‹lc·osA -l- alal-s* Ξ Ο ,
+
+(Ι 00811
+> O
+
+‘sd-9 ⁷
+
+ 
+
+nous fournissent la solution
+
+ 
+
+(lm —— 5 l) ι Τ-ῧ- φῗ *PT (1-(q—l— (V) lsinB ‹lB ⁷
+
+3(1†‹Jf2)11-{—<Js² 1÷q²-l-90“25
+‘'lTss⁹²† ⁹5² - A& ’Ῐῗῗζῖ 005ss AB
+(1†‹‚‹22)1‘1÷‹12 1÷w2÷20=¹2⁸ ⁷
+
+d- Ξ oy 17f÷ff²÷ st* a (⁹7² Ψ) 2,
+i l(1÷w²>1'1÷‹}² l-l-9>²†‹p'²3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+((9Ξέ
+
+ 
+
+φιῖΒ,
+
+ 
+
+ 
+
+φ etant une fonction arbitraire de B, seulement assuje‘tie ἔῑ la eondition
+
+ 
+
+h ἡ (tw—’rw (14⁹²)¹ Μ’(Γ > 0.
+
+(14- φῖ-Ι-(ΓἬ ÷ ΙφΞ-Ι-Ψὲ
+
+ 
+
